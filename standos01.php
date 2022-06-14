@@ -16,7 +16,7 @@
 </head>
 
 <body>
-<img src="IMG_1074.jpeg">
+<img src="IMG_1074.jpeg" width="600">
 <img src="IMG_1546.jpeg">
 </body>
 
