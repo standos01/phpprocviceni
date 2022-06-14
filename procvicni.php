@@ -12,7 +12,7 @@
     <table>
         <?php
 
-        for ($i = 1; $i <= 50; $i++) {
+        for ($i = 1; $i <= 100; $i++) {
             echo "<tr>";
 
             for ($e = 0; $e <= 6; $e++) {
